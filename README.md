@@ -1,7 +1,7 @@
 # Olá, me chamo Otávio Leomar ! 
 ## Bem vindo ao meu perfil GitHub <img src="https://img.icons8.com/stickers/100/null/so-so-skin-type-2.png" width="30" height="30" />
 
-Tenho 21 anos, moro em Vacaria/RS sou um grande entusiasta na área da programação! Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso haha 
+Tenho 21 anos, moro em Vacaria/RS sou um grande entusiasta na área da programação! Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais acabado gostando do que estou fazendo haha 
 
 <p align="center">
   <img width="300" height="150" alt="meugif" src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-sairfazendo.gif">
